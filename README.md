@@ -1,4 +1,4 @@
-There is a copy of the project report attached here
+There is a copy of the project report attached in the repo
 
 Use 
 - self_train_test.py ... to train and create test data self-coded PPO agents
